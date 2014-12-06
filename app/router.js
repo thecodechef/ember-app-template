@@ -1,4 +1,4 @@
-import Ember from 'ember';
+import Ember from './vendor/ember';
 import App from './app/app.js';
 
 var App.Router = Ember.Router.extend();
