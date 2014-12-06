@@ -1,8 +1,8 @@
-README
-======
+# README
 
-Installation
-------------
+
+## Installation
+
 
 ```bash
 git clone https://github.com/thecodechef/ember-app-template.git
@@ -14,5 +14,4 @@ bower install ember-app-template
 npm install ember-app-template
 ```
 
-Structure
----------
+## Structure
