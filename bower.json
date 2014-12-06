@@ -1,0 +1,38 @@
+{
+  "name": "ember-app-template",
+  "version": "0.1.0",
+  "description": "This is a App Template for Ember",
+  "main": "index.html",
+  "keywords": [
+    "ember",
+    "template",
+    "ember-data",
+    "ember-app",
+    "app",
+    "ember-cli"
+  ],
+  "authors": [
+    "Jeremy Bolding"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/thecodechef/ember-app-template",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "resolutions": {
+    "handlebars": ">= 1.0.0 < 2.0.0",
+    "ember": "~1.8.1"
+  },
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.3.1",
+    "ember": "~1.8.1",
+    "ember-data": "~0.0.14",
+    "handlebars": "~2.0.0"
+  }
+}

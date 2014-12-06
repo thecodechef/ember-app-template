@@ -1,0 +1,24 @@
+{
+  "name": "ember-app-template",
+  "version": "0.1.0",
+  "description": "This is a App Template for Ember",
+  "main": "./app/app.js",
+  "scripts": {
+    "test": "ember test",
+    "start": "ember serve",
+  },
+  "homepage": "https://github.com/thecodechef/ember-app-template",
+  "repository": {"type": "git","url": "https://github.com/thecodechef/ember-app-template.git"},
+  "bugs": {"url": "https://github.com/thecodechef/ember-app-template/issues"},
+  "keywords": [
+    "ember",
+    "ember-cli",
+    "ember-data",
+    "app",
+    "ember-app",
+    "template",
+    "ember-template"
+  ],
+  "author": "Jeremy Bolding",
+  "license": "MIT"
+}
